@@ -21,4 +21,4 @@ You'll want to remove the OS designation from the file name:
 
 ## Use
 
-    kempt --help
+    kempt help
